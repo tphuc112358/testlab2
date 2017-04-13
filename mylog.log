@@ -1,0 +1,295 @@
+    1  git init
+    2  git pull https://github.com/Agreon/WheelScout.git
+    3  Nc2kld2fs2f
+    4  git clone https://tphuc112358@bitbucket.org/lolguru/app.git
+    5  git clone https://tphuc112358@bitbucket.org/lolguru/app.git
+    6  history
+    7  history> mylog.log
+    8  mylog.log
+    9  history> mylog.log
+   10  git init
+   11  dir
+   12  history> mylog.log 
+   13  dir
+   14  cd
+   15  ls
+   16  exit
+   17  git
+   18  git init
+   19  dir
+   20  mkdir lab4_1
+   21  cd lab4_1/
+   22  dir
+   23  git add .
+   24  git commit -m "first commit"
+   25  git remote add origin 
+   26  git remote add origin https://github.com/tphuc112358/Software-Development.git
+   27  git remote -v
+   28  git push origin master
+   29  git add .
+   30  git commit -m "First commit"
+   31  git config --global tphuc "tphuc123@gmail.com"
+   32  git config --global user.email "tphuc123@gmail.com"
+   33  git config --global user.name "tphuc123"
+   34  git add .
+   35  git commit -m "first commit"
+   36  git remote -v
+   37  git push origin master
+   38  git branch b1
+   39  dir
+   40  git branch
+   41  git checkout b1
+   42  git add .
+   43  git checkout
+   44  git branch
+   45  git branch master
+   46  git branch -d master
+   47  git checkout master
+   48  git checkout
+   49  git branch
+   50  ls
+   51  vim Shortcat.txt 
+   52  git add .
+   53  git status
+   54  git commit -m 'slightly longer cat'
+   55  git push origin master
+   56  git checkout b1
+   57  git add .
+   58  git commit -m "cat with ears"
+   59  git push origin master
+   60  git push origin b1
+   61  git checkout master
+   62  git merge b1 -m "merge"
+   63  git merge b1 -m "merge"
+   64  git merge b1 -m "merge"
+   65  git status
+   66  vim Shortcat.txt 
+   67  vim Shortcat.txt 
+   68  git add .
+   69  git branch -d b1
+   70  git branch -D b1
+   71  git commit -m 'full cat'
+   72  git push origin master
+   73  history>mylogs.txt
+   74  mylogs.txt
+   75  ls
+   76  vim mylogs.txt 
+   77  mkdir lab4_1
+   78  cd lab4_1/
+   79  git add .
+   80  cd ..
+   81  git init
+   82  cd lab4_1/
+   83  git add .
+   84  git commit -m 'First commit'
+   85  git remote add origin https://github.com/tphuc112358/SWP17.git
+   86  git push origin master
+   87  git remote -v
+   88  git branch b1
+   89  git add .
+   90  git commit -m 'longer cat'
+   91  git checkout b1
+   92  git add .
+   93  git commit -m 'catwithears'
+   94  git branch
+   95  git checkout master
+   96  git merge b1 -m 'merge'
+   97  vim shortcat.txt 
+   98  vim shortcat.txt 
+   99  git branch -d b1
+  100  git branch -D b1
+  101  git push origin master
+  102  git branch b2
+  103  git add .
+  104  git commit -m 'belt|'
+  105  git checkout b2
+  106  git add .
+  107  git commit -m "beltX"
+  108  git checkout master
+  109  git merge b2 -m "merge"
+  110  vim shortcat.txt 
+  111  vim shortcat.txt 
+  112  git add .
+  113  git commit -m 'final cat'
+  114  git push origin master
+  115  history>mylogs.txt
+  116  history>mylog.og
+  117  history>mylog.log
+  118  ls
+  119  rm mylog
+  120  rm mylog.log 
+  121  rm mylog.og 
+  122  rm mylogs.txt 
+  123  ls
+  124  cd ..
+  125  ls
+  126  mkdir lab42
+  127  cd lab42
+  128  history>mylog.log
+  129  npm
+  130  git add .
+  131  git commit -m 'first commit'
+  132  git push origin master
+  133  git branch b1
+  134  git checkout b1
+  135  git add .
+  136  git commit -m 'add changeBalance'
+  137  git push origin b1
+  138  git branch 
+  139  git checkout b2
+  140  exit
+  141  git pull class main {
+  142      public static void main(String[] args) { 
+  143      Product product = new Product("Edam", 3.3, 120);
+  144      System.out.println("Product value is " + product.countValue());
+  145      product.printProduct();
+  146      product.changePrice(4);
+  147      System.out.println("Product value is " + product.countValue());
+  148      product.printProduct();
+  149       }
+  150  }
+  151   class Product {
+  152  private String name;
+  153  private double price;
+  154  private int amount; //Amount in storage
+  155  public Product(String name, double price, int amount) {
+  156  ame = name;
+  157  t = amount;
+  158  }
+  159  public double countValue() {
+  160  (amount * price);
+  161  }
+  162  public void changePrice(int newvalue) {
+  163  ewvalue;
+  164  }
+  165   
+  166  ublic void printProduct() {
+  167  git pull
+  168  ls
+  169  git pull origin master
+  170  git pull origin b1
+  171  ls
+  172  cd lab4
+  173  cd lab42
+  174  ls
+  175  git checkout b2
+  176  git add .
+  177  git commit -m 'Add changeprice"
+  178  git commit -m 'Add changeprice'
+  179  git push origin b2
+  180  git branch
+  181  git pull origin 
+  182  git pull origin master
+  183  vim My
+  184  ls
+  185  vim MyApp.java.txt 
+  186  git branch
+  187  git checkout master
+  188  vim MyApp.java.txt 
+  189  git pull
+  190  git pull origin master
+  191  vim MyApp.java.txt 
+  192  git checkout b1
+  193  ls
+  194  vim my
+  195  vim MyApp.java.txt 
+  196  git checkout b2
+  197  vim MyApp.java.txt 
+  198  git checkout máter
+  199  git checkout master
+  200  vim MyApp.java.txt 
+  201  git merge b2 -m "merge'
+  202  git merge b2 -m "merge"
+  203  git merge b1 -m "merge"
+  204  git checkout b2
+  205  git add .
+  206  git push origin b2
+  207  git commit -m 'small change'
+  208  vim MyApp.java.txt 
+  209  git checkout master
+  210  vim MyApp.java.txt 
+  211  git checkout b2
+  212  vim mya
+  213  vim MyApp.java.txt 
+  214  git checkout b1
+  215  vim MyApp.java.txt 
+  216  git checkout b2
+  217  vim MyApp.java.txt 
+  218  git add .
+  219  git commit -m 'small change'
+  220  git push origin b2
+  221  vim MyApp.java.txt 
+  222  git checkout master
+  223  git merge b2 -m 'merge changeprice'
+  224  git stash
+  225  git checkout b2
+  226  git add .
+  227  git commit -m 'add small space'
+  228  git push origin b2
+  229  git checkout master
+  230  git add .
+  231  git commit -m ' small change'
+  232  git push origin master
+  233  vim mya
+  234  vim MyApp.java.txt 
+  235  git checkout b1
+  236  vim MyApp.java.txt 
+  237  vim mylog.log 
+  238  git remote origin
+  239  git origin
+  240  vim mylog.log 
+  241  history>mylog.log
+  242  vim mylog.log 
+  243  git diff master
+  244  cd ..
+  245  git rm lab42
+  246  git rm -rf lab42
+  247  exit
+  248  git add .
+  249  git add .
+  250  git commit -m 'delete lab4 2'
+  251  git push origin master
+  252  git checkout master
+  253  git merge b1
+  254  git add .
+  255  git commit -m 'delete lab 42'
+  256  git push origin master
+  257  git push origin b1
+  258  history>mylog.log
+  259  git init
+  260  git add .
+  261  git remote origin      /         |  #    # |   \     @   |    \   _|_ /
+  262     /       \______
+  263    / _______ ___     |_____   \   \__/
+  264     |    \__/
+  265    |       |
+  266    /          /   ____     |  /    \  |
+  267   | |      | |
+  268   /  |      |  \
+  269   \__/      \__/
+  270  gitgg
+  271  history>mylog.log
+  272  git init
+  273  git remote add origin https://github.com/tphuc112358/SWPlab4.git
+  274  git add .
+  275  git remote -v
+  276  git commit -m 'First Commit'
+  277  git push origin master
+  278  git branch b1
+  279  git add .
+  280  git commit -m 'longer cat'
+  281  git checkout b1
+  282  git add .
+  283  git commit -m 'shortcatears'
+  284  git push origin b1
+  285  git checkout master
+  286  git merge b1 -m 'merge'
+  287  git add .
+  288  git commit -m 'final cat'
+  289  git push origin master
+  290  history>mylog.log 
+  291  exit
+  292  myhistory>mylog.log
+  293  history>mylog.log
+  294  clear history
+  295  history>mylog.log
